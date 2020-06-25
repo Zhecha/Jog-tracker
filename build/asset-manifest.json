@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3bd518b.chunk.css",
+    "main.js": "/static/js/main.ac623650.chunk.js",
+    "main.js.map": "/static/js/main.ac623650.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6e4ea4fd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6e4ea4fd.js.map",
+    "static/js/2.a0c00f57.chunk.js": "/static/js/2.a0c00f57.chunk.js",
+    "static/js/2.a0c00f57.chunk.js.map": "/static/js/2.a0c00f57.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.20c77c39b88c649c9fccc3bebce4a0bc.js": "/precache-manifest.20c77c39b88c649c9fccc3bebce4a0bc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b3bd518b.chunk.css.map": "/static/css/main.b3bd518b.chunk.css.map",
+    "static/js/2.a0c00f57.chunk.js.LICENSE.txt": "/static/js/2.a0c00f57.chunk.js.LICENSE.txt",
+    "static/media/JogsList.css": "/static/media/icon@3x.806121c2.png",
+    "static/media/LetMeIn.css": "/static/media/bearFace@3x.145db14e.png",
+    "static/media/Header.css": "/static/media/logo@3x.bfd684fa.png",
+    "static/media/FirstJog.css": "/static/media/sadRoundedSquareEmoticon@3x.893abc61.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e4ea4fd.js",
+    "static/js/2.a0c00f57.chunk.js",
+    "static/css/main.b3bd518b.chunk.css",
+    "static/js/main.ac623650.chunk.js"
+  ]
+}
